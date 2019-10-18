@@ -41,7 +41,7 @@ For more information see the [documentation](https://github.com/shahar603/Launch
 
 ##### Have people used the API?
 
-Yes! [FlighbClub.io](https://www2.flightclub.io/) overlays webcast telemetry over the simulated launches. The webcast telemetry has helped to build trajectories in FlightClub. For example [this trajectory](https://www2.flightclub.io/result/2d?code=DEM1) of the DM-1 launch. As this [comparison photo] by __ shows, the analyzed telemetry used to create it is very accurate. 
+Yes! [FlighbClub.io](https://www2.flightclub.io/) overlays webcast telemetry over the simulated launches. The webcast telemetry has helped to build trajectories in FlightClub. For example [this trajectory](https://www2.flightclub.io/result/2d?code=DEM1) of the DM-1 launch. As this [comparison photo](https://imgur.com/a/pbt4YWM) shows, the analyzed telemetry used to create it is very accurate. (Original photo by [@Mimikry_](https://twitter.com/Mimikry_))
 
 In addition, I've used the telemetry in posts like: [Iridium 8 Telemetry & Comparison between Block 4 and Block 5 ASDS Landing](https://www.reddit.com/r/spacex/comments/af7bco/iridium_8_telemetry_comparison_between_block_4/) and [Bangabandhu-1 Telemetry & Comparison between Block 5 and previous blocks](https://www.reddit.com/r/spacex/comments/8iwrml/bangabandhu1_telemetry_comparison_between_block_5/)
 
