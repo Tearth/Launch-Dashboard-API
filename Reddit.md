@@ -57,31 +57,6 @@ If you want to contribute and supply telemetry to the API, it is more than welco
 
 ------
 
-## What can you do?
-
-
-
-##### Suggestions
-
-Have a feature request? A launch provider/webcast you want to be seen on the API?
-
-Great! I want to hear it. Please put it on the [Features, Data and Telemetry Suggestions 🚀](https://github.com/shahar603/Launch-Dashboard-API/issues/17) issue on GitHub. Or contact me on Reddit using a comment or a PM.
-
-##### Do you have data you want the API to host?
-
-Awesome! That's the reason Launch Dashboard API exists. Please put it on the [Features, Data and Telemetry Suggestions 🚀](https://github.com/shahar603/Launch-Dashboard-API/issues/17) issue on GitHub. Or contact me on Reddit. You'll be credited on the README page for your contribution.
-###### Important: The data has to be public. When you send telemetry you *must* include the source.
-
-##### Want to help code Launch Dashboard API?
-
-Thank you so much! See the [CONTRIBUTING](https://github.com/shahar603/Launch-Dashboard-API/blob/master/CONTRIBUTING.md) page for instructions.
-
-##### I used the Launch Dashboard API in my project
-
-I want to hear about it! You'll be credited on the [README](https://github.com/shahar603/Launch-Dashboard-API/blob/master/README.md) page.
-
---------
-
 ## Future Work
 ## Launch Dashboard Client
 
@@ -118,3 +93,28 @@ Thanks you for reading and I hope Launch Dashboard API will be used to create aw
 
 
 P.S: Special thanks to u/TheVehicleDestroyer for integrating Launch Dashboard API into FlightClub and helping me with a ton of things during development, and u/CakeOfDestiny who helped me find a domain.
+
+## What can you do?
+
+
+
+##### Suggestions
+
+Have a feature request? A launch provider/webcast you want to be seen on the API?
+
+Great! I want to hear it. Please put it on the [Features, Data and Telemetry Suggestions 🚀](https://github.com/shahar603/Launch-Dashboard-API/issues/17) issue on GitHub. Or contact me on Reddit using a comment or a PM.
+
+##### Do you have data you want the API to host?
+
+Awesome! That's the reason Launch Dashboard API exists. Please put it on the [Features, Data and Telemetry Suggestions 🚀](https://github.com/shahar603/Launch-Dashboard-API/issues/17) issue on GitHub. Or contact me on Reddit. You'll be credited on the README page for your contribution.
+###### Important: The data has to be public. When you send telemetry you *must* include the source.
+
+##### Want to help code Launch Dashboard API?
+
+Thank you so much! See the [CONTRIBUTING](https://github.com/shahar603/Launch-Dashboard-API/blob/master/CONTRIBUTING.md) page for instructions.
+
+##### I used the Launch Dashboard API in my project
+
+I want to hear about it! You'll be credited on the [README](https://github.com/shahar603/Launch-Dashboard-API/blob/master/README.md) page.
+
+
