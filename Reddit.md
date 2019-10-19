@@ -99,7 +99,7 @@ Great! I want to hear it. Please put it on the [Features, Data and Telemetry Sug
 ##### Do you have data you want the API to host?
 
 Awesome! That's the reason Launch Dashboard API exists. Please put it on the [Features, Data and Telemetry Suggestions 🚀](https://github.com/shahar603/Launch-Dashboard-API/issues/17) issue on GitHub. Or contact me on Reddit. You'll be credited on the README page for your contribution. The telemetry isn't required to be from webcasts or be extracted using OCR.  
-###### Important: The data has to be public. When you send telemetry you *must* include the source.
+###### Important: The data has to be public (or yours). When you send telemetry you *must* include the source.
 
 ##### Want to help code Launch Dashboard API?
 
