@@ -16,7 +16,7 @@ This is quite a long post, so I divided it into sections:
 
 ---------
 
-### The goals of Launch Dashboard API
+## The goals of Launch Dashboard API
 
 1) Centralize all public rocket telemetry in one easy-to-use place
  
@@ -63,7 +63,7 @@ If you want to contribute and supply telemetry to the API, it is more than welco
 ------
 
 ## Future Work
-## Launch Dashboard Client
+### Launch Dashboard Client
 
 You may be wondering why is the API called "Launch Dashboard API" and not something like "Rocket Launch Telemetry API". It's because it's just the first part of a much bigger (and more awesome) project called **Launch Dashboard**.
 
@@ -98,7 +98,7 @@ Great! I want to hear it. Please put it on the [Features, Data and Telemetry Sug
 
 ##### Do you have data you want the API to host?
 
-Awesome! That's the reason Launch Dashboard API exists. Please put it on the [Features, Data and Telemetry Suggestions 🚀](https://github.com/shahar603/Launch-Dashboard-API/issues/17) issue on GitHub. Or contact me on Reddit. You'll be credited on the README page for your contribution.
+Awesome! That's the reason Launch Dashboard API exists. Please put it on the [Features, Data and Telemetry Suggestions 🚀](https://github.com/shahar603/Launch-Dashboard-API/issues/17) issue on GitHub. Or contact me on Reddit. You'll be credited on the README page for your contribution. The telemetry isn't required to be from webcasts or be extracted using OCR.  
 ###### Important: The data has to be public. When you send telemetry you *must* include the source.
 
 ##### Want to help code Launch Dashboard API?
@@ -107,7 +107,7 @@ Thank you so much! See the [CONTRIBUTING](https://github.com/shahar603/Launch-Da
 
 ##### Use Launch Dashbaord API
 
-If you use Launch Dashboard API in a project (like an app), I want to hear about it! You'll be credited on the [README](https://github.com/shahar603/Launch-Dashboard-API/blob/master/README.md) page.
+If you use Launch Dashboard API in a project, I want to hear about it! You'll be credited on the [README](https://github.com/shahar603/Launch-Dashboard-API/blob/master/README.md) page.
 
 
 ## Patreon
