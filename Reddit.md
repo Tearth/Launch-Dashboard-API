@@ -6,7 +6,7 @@ GitHub Repository: https://github.com/shahar603/Launch-Dashboard-API/
 
 Documentation: https://github.com/shahar603/Launch-Dashboard-API/wiki
 
-This is quite a long post, so I divided it into a few sections:
+This is quite a long post, so I divided it into sections:
 
 * The goals of Launch Dashboard API
 * General information
@@ -16,7 +16,7 @@ This is quite a long post, so I divided it into a few sections:
 
 ---------
 
-### Launch Dashboard API has two purposes
+### The goals of Launch Dashboard API
 
 1) Centralize all public rocket telemetry in one easy-to-use place
  
@@ -32,9 +32,9 @@ Information about the API and the data it contains
 
 The API contains 3 types of telemetry:
 
-* Webcast telemetry - In the API is under the name *raw telemetry*, it is a frame by frame capture of the data displayed in the webcast. For example: SpaceX webcast contain time, velocity and altitude and livestream at 30 FPS. Thus the raw SpaceX telemetry contains 30 data points per second. Each data point has time, velocity and altitude.
+* Webcast telemetry - In the API is under the name *raw telemetry*, it is a frame by frame capture of the data displayed in the webcast. For example: SpaceX's webcasts contain time, velocity and altitude and stream at 30 FPS. Thus the raw SpaceX telemetry contains 30 data points per second. Each data point has time, velocity and altitude.
 
-* Analysed telemetry - Webcast telemetry analysed by a [physics engine](https://github.com/shahar603/SpaceXtract/blob/master/src/Analysis/analyse_raw_telemetry.py). Contains more fields like: acceleration, downrange distance, velocity components and more. 
+* Analysed telemetry - Webcast telemetry analysed by a [script I wrote](https://github.com/shahar603/SpaceXtract/blob/master/src/Analysis/analyse_raw_telemetry.py). Analysed telemetry contains more fields like: acceleration, downrange distance, velocity components and more. 
 
 * Events - A list of events and the time they occurred at the launch.
 
@@ -44,7 +44,7 @@ For more information see the [documentation](https://github.com/shahar603/Launch
 
 * The API contains telemetry from every SpaceX launch since Orbcomm 2 (December 2015), the 3 latest RocketLab launches and 2 Arianespace launches (1 Vega and 1 Ariane 5).
 
-* Many parameters (See [analysed telemetry]()) are being streamed every SpaceX and RocketLab launch in real time using websockets. For more information see the ["/live" section in the docs](https://github.com/shahar603/Launch-Dashboard-API/wiki/Live-(Websockets))
+* Raw and Analysed telemetry are being streamed every SpaceX and RocketLab launch in real time using websockets. For more information see the ["/live" section in the docs](https://github.com/shahar603/Launch-Dashboard-API/wiki/Live-(Websockets))
 
 ##### Have people used the API?
 
@@ -54,7 +54,7 @@ In addition, I've used the telemetry in posts like: [Iridium 8 Telemetry & Compa
 
 ##### How is the telemetry captured?
 
-I capture SpaceX and RocketLab telemetry using a Python module I wrote called: [SpaceXtract](https://github.com/shahar603/SpaceXtract). You can use it to capture telemetry locally or use it to extract data from non rocket related sources.
+I capture SpaceX and RocketLab telemetry using a Python module I wrote called: [SpaceXtract](https://github.com/shahar603/SpaceXtract). You can use it to capture telemetry locally or use it to extract data from non rocket related sources. Analysed telmetry is produced from raw telemetry using [this](https://github.com/shahar603/SpaceXtract/blob/master/src/Analysis/analyse_raw_telemetry.py) script.
 
 u/Hitura-Nobad has used [VideoTelemetryParser](https://github.com/Togusa09/VideoTelemetryParser) to capture Arianespace telemetry.
 
@@ -74,7 +74,7 @@ A client with dozens of dials, graphs, notifications, simulations, triggers, vis
 Users will be able to create visualizations of data (ex: a speedometer in m/s) and then share it with other users. Or you can trigger confetti and an [Elon musk maracas gif](https://imgur.com/4UUrUW4) when S2 reaches orbit by calculating perigee using telemetry or hooking to a good orbit confirmation event from the r/SpaceX launch thread. Users will even be able to share complete launch presets to create a launch theme. You could have a KSP theme using KSP like controls and music, or a meme theme with different memes at different stages of the flight. I have quite a lot of ideas and you might have some too.
 
 
-But there are two big problem. 
+But there are two problem. 
 
 * Launch Dashboard Client is a HUGE project. And I don't have the resources or the time to do it on my own.
 
@@ -90,7 +90,7 @@ If you want to help develop Launch Dashboard Client, join the [Launch Dashboard 
 
 ## What can you do?
 
-##### Suggestions
+##### Have a suggestion?
 
 Have a feature request? A launch provider/webcast you want to be seen on the API?
 
@@ -105,9 +105,9 @@ Awesome! That's the reason Launch Dashboard API exists. Please put it on the [Fe
 
 Thank you so much! See the [CONTRIBUTING](https://github.com/shahar603/Launch-Dashboard-API/blob/master/CONTRIBUTING.md) page for instructions.
 
-##### I used the Launch Dashboard API in my project
+##### Use Launch Dashbaord API
 
-I want to hear about it! You'll be credited on the [README](https://github.com/shahar603/Launch-Dashboard-API/blob/master/README.md) page.
+If you use Launch Dashboard API in a project (like an app), I want to hear about it! You'll be credited on the [README](https://github.com/shahar603/Launch-Dashboard-API/blob/master/README.md) page.
 
 
 ## Patreon
