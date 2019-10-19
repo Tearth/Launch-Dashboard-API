@@ -2,12 +2,17 @@ Hey everyone,
 
 I created an Open Source REST API for telemetry from webcasts of rocket launches, called **[Launch Dashboard API](https://api.launchdashboard.space)**.
 
-
 GitHub Repository: https://github.com/shahar603/Launch-Dashboard-API/
 
 Documentation: https://github.com/shahar603/Launch-Dashboard-API/wiki
 
-Warning: This is quite a long post, so I divided it into a few sections.
+This is quite a long post, so I divided it into a few sections:
+
+* The goals of Launch Dashboard API
+* General information
+* Future Work (Launch Dashboard Client)
+* What can you do?
+* Patreon
 
 ---------
 
@@ -19,7 +24,7 @@ Warning: This is quite a long post, so I divided it into a few sections.
 
 ---
 
-## Details
+## General information
 
 Information about the API and the data it contains
 
@@ -79,24 +84,11 @@ So...I need your help.
 
 If you want to help develop Launch Dashboard Client, join the [Launch Dashboard Development Slack Channel]().
 
------
-
-## Patreon
-
-All the data on Launch Dashboard API will be free forever. To help cover the server and development costs please consider supporting [Launch Dashboard API on Patreon]()
-
 
 ----
 
-Thanks you for reading and I hope Launch Dashboard API will be used to create awesome things!
-
-
-
-P.S: Special thanks to u/TheVehicleDestroyer for integrating Launch Dashboard API into FlightClub and helping me with a ton of things during development, and u/CakeOfDestiny who helped me find a domain.
 
 ## What can you do?
-
-
 
 ##### Suggestions
 
@@ -118,3 +110,14 @@ Thank you so much! See the [CONTRIBUTING](https://github.com/shahar603/Launch-Da
 I want to hear about it! You'll be credited on the [README](https://github.com/shahar603/Launch-Dashboard-API/blob/master/README.md) page.
 
 
+## Patreon
+
+All the data on Launch Dashboard API will be free forever. To help cover the server and development costs please consider supporting [Launch Dashboard API on Patreon]()
+
+-------
+
+Thanks you for reading and I hope Launch Dashboard API will be used to create awesome things!
+
+
+
+P.S: Special thanks to u/TheVehicleDestroyer for integrating Launch Dashboard API into FlightClub and helping me with a ton of things during development, and u/CakeOfDestiny who helped me find a domain.
