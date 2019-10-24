@@ -82,7 +82,7 @@ But there are two problem.
 
 So...I need your help.
 
-If you want to help develop Launch Dashboard Client, join the [Launch Dashboard Development Slack Channel]().
+If you want to help develop Launch Dashboard Client, join the [Launch Dashboard Development Slack Channel](https://join.slack.com/t/launchdashboard/shared_invite/enQtNzk1MDY1NjM3MDA5LTczNmQ4N2U4ZTYxMTEyZTRlOTVmMTdmNzU2ODk2OGEwYmE2YWFkMmQ2ZDNlYmZiYWNmNGE3ODQ2MjVjYWM5MmI).
 
 
 ----
@@ -112,7 +112,7 @@ If you use Launch Dashboard API in a project, I want to hear about it! You'll be
 
 ## Patreon
 
-All the data on Launch Dashboard API will be free forever. To help cover the server and development costs please consider supporting [Launch Dashboard API on Patreon]()
+All the data on Launch Dashboard API will be free forever. To help cover the server and development costs please consider supporting [Launch Dashboard API on Patreon](https://www.patreon.com/launchdashboard)
 
 -------
 
